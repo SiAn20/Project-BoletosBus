@@ -35,8 +35,8 @@ BusRat nace con la idea de facilitar la compra de pasajes de buses desde el celu
 
 ```bash
 # Clonar el repositorio
-git clone git@github.com:link200309/Project-Boletos-Bus.git
-cd Project-Boletos-Bus
+git clone https://github.com/SiAn20/Project-BoletosBus.git
+cd Project-BoletosBus
 
 # Instalar dependencias del backend
 cd Server
